@@ -1,4 +1,4 @@
-package lc.work.easy.ImplementStrStr;
+package lc_work.easy.ImplementStrStr;
 
 public class Solution {
     public int strStr(String haystack, String needle) {

@@ -1,4 +1,4 @@
-package lc.work.easy.MergeTwoSortedLists;
+package lc_work.easy.MergeTwoSortedLists;
 
 public class Solution {
 	

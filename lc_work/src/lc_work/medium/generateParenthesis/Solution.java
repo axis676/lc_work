@@ -1,4 +1,4 @@
-package lc.work.medium.generateParenthesis;
+package lc_work.medium.generateParenthesis;
 
 import java.util.ArrayList;
 import java.util.List;
